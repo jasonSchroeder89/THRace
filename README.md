@@ -3,3 +3,7 @@ A multi-threaded Swing GUI application that simulates the allegorical race betwe
 The user can set the number of racers, and their stats. Race results are written to a .txt file for logging purposes.
 
 Final project for Advanced Java Programming.
+
+Code is licensed under the terms of GPL-3. See LICENSE for terms and more information.
+
+Copyright 2020 Jason Schroeder
